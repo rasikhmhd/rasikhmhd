@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Rasikh</h1>
+<h1 align="center">Hi I'm Rasikh👨‍💻</h1>
 <h3 align="center">while (!(succeed=try() ));</h3>
 
 - 🌱 I’m currently learning **CEH**
