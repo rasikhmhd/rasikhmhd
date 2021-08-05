@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Ethical Hacking, Penetration Testing, Coding**
 
-- 📫 How to reach me **rasikhmoha@gmail.com**
+- 📫 How to reach me **rasikhmhd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
